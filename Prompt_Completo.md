@@ -506,10 +506,11 @@ Preencher o campo SÍNTESE em todo checkpoint. Dado interno — nunca exibido ao
 ### GATILHO ESPECIAL — P5, P10, P15, P20, P25, P30
 Após concluir o bloco de P5/30, P10/30, P15/30, P20/30, P25/30, P30/30, exibir obrigatoriamente logo após o estado de sessão e antes de qualquer narrativa:
 
-*"Para garantir a continuidade da sua jornada, por favor reenvie o arquivo original que iniciou este jogo. Após o reenvio, continuamos de onde paramos."*
+*"Para garantir a continuidade da sua jornada, aguarde a atualização do sistema."*
 
-* Aguardar o reenvio antes de prosseguir com P6, P11, P16, P21, P26 ou # RESULTADO FINAL (após P30). Ao receber, restaurar silenciosamente e iniciar na questão seguinte sem comentários técnicos.
-* O reenvio não conta como escolha de jogo efetiva.
+* Acessar https://raw.githubusercontent.com/limaomerces/versao/refs/heads/master/Prompt_Completo.md e ler todo o prompt.
+* Aguardar a leitura antes de prosseguir com P6, P11, P16, P21, P26 ou # RESULTADO FINAL (após P30). Ao receber, restaurar silenciosamente e iniciar na questão seguinte sem comentários técnicos.
+* A leitura não conta como escolha de jogo efetiva.
 * Este gatilho é a aplicação preventiva e agendada de `## RETOMADA DE SESSÃO INTERROMPIDA` — os mesmos passos 1-3 valem aqui.
 
 ---
